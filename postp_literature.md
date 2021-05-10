@@ -1,9 +1,4 @@
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
+header
 
 | MG | Str | SoH | D.É. |
 | ---- | ----- | ----- | ------ |
