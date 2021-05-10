@@ -12,3 +12,15 @@ On the postposition itself, or on another element?
 
 A question mark indicates that I am not entirely certain in the acceptability of my examples for testing the given property. 
 A '-' marks that the given postposition does not appear in the given construction (with a personal pronoun, for example)
+
+
+Here I sum up the teatures and their binary values used when evaluating the behaviour of postpositions in the corpus. 
+P stands for postposition.
+|**Column**| **the feature**| **if 1** |**if 0** |
+|---|---|---|---|
+|pos | position of P relative to the noun | P always follows the noun | P may appear before and after the noun|
+|$\emptyset$  | the case of the noun |always caseless noun |P takes a noun with a lexical case | 
+|adj  | the adjacency of the two words  | noun and P always next to each other  | other words may appear between P and the noun |
+|wh  | the behaviour of P in wh-questions  | P follows the wh-word  | P stays behind |
+|dem|P's behaviour with demonstrative pronouns|P is copied onto the demonstrative |P is not copied onto the demonstrative|
+|pers pron |person-number agreement with a personal pronoun|person-number agreement appears on P |person-number agreement not on P |
