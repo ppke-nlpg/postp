@@ -6,5 +6,5 @@ This repo comprises important data of the research presented in the PhD thesis o
 
 The following data are available in this repository:
 - Table summarizing every word ever mentioned in linguistics studies as postpositions. (postp_literature.md)
-- Table describing the distributional features of every word ever mentioned in linguistics studies as postpositions. This table summarizes the results of many corpus queries. (The corpus used for this study is the Hungarian Gigaword Corpus; Oravecz, Cs., Váradt, T. and Sass, B., 2014. http://real.mtak.hu/20143/1/681_Paper.pdf)
+- Table describing the distributional features of every word ever mentioned in linguistics studies as postpositions (postp_corpus.md). This table summarizes the results of many corpus queries. (The corpus used for this study is the Hungarian Gigaword Corpus; Oravecz, Cs., Váradt, T. and Sass, B., 2014. http://real.mtak.hu/20143/1/681_Paper.pdf)
 
